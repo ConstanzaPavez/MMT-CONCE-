@@ -1,0 +1,26 @@
+.fondo {
+    background-color: #eb6fd7;
+    width: 100%;
+    max-height: fit-content;
+}
+
+.fondo2 {
+    background-color: #B187EB;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.col {
+
+    border: 2px;
+
+}
